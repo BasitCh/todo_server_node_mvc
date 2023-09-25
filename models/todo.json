@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "text": "first todo"
+    }, 
+    {
+        "id": 2,
+        "text": "second todo" 
+    }
+]
